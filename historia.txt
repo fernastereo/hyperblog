@@ -6,4 +6,4 @@ dichas ramas y muchos otros conceptos que nos ayudaran a manejar mucho mejor nue
 esto muy importante cuando trabajamos en conjunto con varios desarrolladores.
 
 El comando git flow init es una extensión del comando predeterminado git init y no cambia nada de tu repositorio aparte de crear ramas para ti. Funcionamiento.
-hoy hablaremos de su vida
+hoy hablaremos de su vida y obra maestra.
