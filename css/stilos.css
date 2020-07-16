@@ -4,6 +4,17 @@ body {
   color: blueviolet;
 }
 
+#cabecera{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+}
+.span-cab{
+  color: #f30d0d;
+  padding-right: 10px;
+}
+
 .p2{
   color: peru;
 }
