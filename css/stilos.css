@@ -28,3 +28,9 @@ body {
 .p3{
   color: green;
 }
+
+#footer{
+  text-align: center;
+  color: #0df30d;
+  background-color: #000000;
+}
