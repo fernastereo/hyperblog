@@ -4,4 +4,6 @@ GitFlow es una una guía que nos da cierto estándares para manejar la ramificac
 
 Master 1
 
+Master 2
+
 Mañana hablaremos de su vida laboral.
