@@ -32,5 +32,6 @@ body {
 #footer{
   text-align: center;
   color: #eff30d;
-  background-color: #000000;
+  background-color: #FF0000;
+  border: 1px solid white;
 }
